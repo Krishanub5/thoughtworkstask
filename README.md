@@ -1,4 +1,5 @@
 **MediaWiki Deployment in Azure using Terraform**
+
 This project describes the steps for running MediaWiki on Red Hat Linux. It elaborates how to deploy MediaWiki using Terraform in RHEL 8 virtual machine in Azure . 
 
 **Components:**
