@@ -5,7 +5,9 @@ This project describes the steps for running MediaWiki on Red Hat Linux. It elab
 **Components:**
 
 **thoughworks_mediawiki_azure.tf** - It provides terraform snippet to deploy Azure VM and other resources.
+
 **automate.sh** - This script performs all the activities starting from installing required packages to publish the service.
+
 **apache-config.conf** - This is the configuration file to setup the apache server.
 
 **Prerequisites :**
